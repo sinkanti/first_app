@@ -1,0 +1,18 @@
+Invalid gemspec in [C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/specifications/heroku-2.17.0.gemspec]: invalid date format in specification: "2011-12-19 00:00:00.000000000Z"
+Invalid gemspec in [C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/specifications/term-ansicolor-1.0.7.gemspec]: invalid date format in specification: "2011-10-13 00:00:00.000000000Z"
+Invalid gemspec in [C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/specifications/heroku-2.17.0.gemspec]: invalid date format in specification: "2011-12-19 00:00:00.000000000Z"
+Invalid gemspec in [C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/specifications/term-ansicolor-1.0.7.gemspec]: invalid date format in specification: "2011-10-13 00:00:00.000000000Z"
+Invalid gemspec in [C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/specifications/heroku-2.17.0.gemspec]: invalid date format in specification: "2011-12-19 00:00:00.000000000Z"
+Invalid gemspec in [C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/specifications/term-ansicolor-1.0.7.gemspec]: invalid date format in specification: "2011-10-13 00:00:00.000000000Z"
+[2012-01-11 19:12:57] INFO  WEBrick 1.3.1
+[2012-01-11 19:12:57] INFO  ruby 1.8.7 (2011-06-30) [i386-mingw32]
+[2012-01-11 19:12:57] INFO  WEBrick::HTTPServer#start: pid=3644 port=3000
+[2012-01-11 19:14:54] INFO  going to shutdown ...
+[2012-01-11 19:14:54] INFO  WEBrick::HTTPServer#start done.
+=> Booting WEBrick
+=> Rails 3.0.11 application starting in development on http://0.0.0.0:3000
+=> Call with -d to detach
+=> Ctrl-C to shutdown server
+Exiting
+Terminate batch job (Y/N)? 
+^C
